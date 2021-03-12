@@ -1,4 +1,4 @@
-最后更新于 - 1615524690
+最后更新于 - 1615525360
 
 # 做种机
 - 119.188.248.210:40506 - 做种壁纸包2019年12月至2019年01月，下载重整合计划的《老子是魔法少女》，接着做种机的硬盘就不剩多少空间了。机器在04月11日到期。
@@ -55,7 +55,7 @@
 - 08月(https://hacg.me/wp/64959.html / b1a4acb0be76ed829d113b79ec6ae6d235e89465) - 做种中
 - 07月(https://hacg.me/wp/63353.html / 10c5d8ab3770727488322d9d2d8902bf8cb7902d) - 做种中
 - 06月(https://hacg.me/wp/62045.html / 50cac05b6cdd8f0c83f864105568a2902b65815b) - 做种中
-- 05月(https://hacg.me/wp/60626.html / 15f30b50228c5f9ce731ecc68afdbb482af6b5fc) - 下载中(99.9%)
+- 05月(https://hacg.me/wp/60626.html / 15f30b50228c5f9ce731ecc68afdbb482af6b5fc) - 做种中
 - 04月(https://hacg.me/wp/59419.html / d2eaa0850c04cde4aed3176a9e30d585597df67f) - 做种中
 - 03月(https://hacg.me/wp/58844.html / e12a167b200847f3390acfe9fc3ae284303299fe) - 做种中
 - 02月(https://hacg.me/wp/58117.html / 07f4842c3330ec7863d0cf71ee47b5b1da202cbd) - 做种中
@@ -70,7 +70,7 @@
 - 07月(https://hacg.me/wp/51420.html / c30b43a9bad99326099c8470312972df97ecf35b) - 下载中(88.5%)
 - 06月(https://hacg.me/wp/50036.html / 1846934c061930425ab90c7232ca1e0e40b3be49) - 做种中
 - 05月(https://hacg.me/wp/48232.html / 75f3a7d7a21d66eb231c0a493470b0b054e895f1) - 下载中(0%)
-- 04月(https://hacg.me/wp/46537.html / 5391e444463d64f67bc670d8bbb79f6666556a79) - 下载中(83.8%)
+- 04月(https://hacg.me/wp/46537.html / 5391e444463d64f67bc670d8bbb79f6666556a79) - 下载中(83.3%)，反向下载么，之前还 83.8% 呐！
 - 03月(https://hacg.me/wp/44086.html / 412415e4f5d914db0f2da63e831b58c017ed3209) - 做种中
 - 02月(https://hacg.me/wp/42493.html / ac9a95dffedda64e6cd0395cc14b8b2891f3b468) - 做种中
 - 01月(https://hacg.me/wp/35896.html / EDF505476F6061924710EE9ABA62AA1533D21CA7) - 做种中
