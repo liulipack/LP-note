@@ -1,7 +1,8 @@
 # 更新日志
 ```json
 {
-    "1615610573": "占位",
+    "1615624525": "占位",
+    "1615624525": "跟新下载经度。",
     "1615610573": "更新“进度”部分2017年5月的状况。",
     "1615553944": "各种修改，记不清了。",
     "1615538916": "添加“事件记录”部分。",
@@ -104,9 +105,9 @@
 
 ## 2015年
 - 12月(https://hacg.me/wp/17512.html / 91e68a4cfd2d0d0aeb68cef9e31a48cc13f74cbf) - 下载元数据中
-- 11月(https://hacg.me/wp/942.html / e3b42c43e2017bd8dc4fc5373f09123387229168) - 下载元数据中
+- 11月(https://hacg.me/wp/942.html / e3b42c43e2017bd8dc4fc5373f09123387229168) - 下载中(75.7%)
 - 10月(https://hacg.me/wp/62869.html / fbdfe86eb6eac9413039644fb8eff4e8cf02abff) - 下载元数据中
-- 09月(https://hacg.me/wp/62324.html / 0de986711e838908ee582abe6f4c34bd41e091e6) - 下载元数据中
+- 09月(https://hacg.me/wp/62324.html / 0de986711e838908ee582abe6f4c34bd41e091e6) - 下载中(0%)
 - 08月(https://hacg.me/wp/60683.html / 51ada5288090b21cafe2b0fb54605f6df4874345) - 做种中
 - 07月(https://hacg.me/wordpress/59977 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
 - 06月(https://hacg.me/wordpress/59102 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
@@ -120,7 +121,7 @@
 - 2014年10月-2012年07月(https://hacg.me/wp/51711.html, 649E1869BEA72FCA422091267FC6AA399B49B602) - 做种中
 - 12-01月(https://hacg.me/wordpress/53603, 4667BB5855030CAAFDA3E70A11CD7BF6290D4CC4) - 未下载
     - 12月(https://www.hacg.me/wordpress/53537, 1e27f8c9bd02cb63c822c1d97cbc33f2345c599d) - 下载元数据中
-    - 11月(https://hacg.me/wp/52600.html, 1f8c03c02c22e351366cec2b333d8091e3a90ccf) - 下载元数据中
+    - 11月(https://hacg.me/wp/52600.html, 1f8c03c02c22e351366cec2b333d8091e3a90ccf) - 下载中(0%)
     - 10月(https://hacg.me/wordpress/51824) - 未下载(分享失效。)
     - 09月(https://hacg.me/wordpress/51202) - 未下载(分享失效。)
     - 08月(https://hacg.me/wordpress/50693) - 未下载(分享失效。)
