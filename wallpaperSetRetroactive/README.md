@@ -1,7 +1,8 @@
 # 更新日志
 ```json
 {
-    "1615624525": "占位",
+    "1615874801": "占位",
+    "1615874801": "更新“经度”部分内容。",
     "1615624525": "更新下载经度。",
     "1615610573": "更新“进度”部分2017年5月的状况。",
     "1615553944": "各种修改，记不清了。",
@@ -76,14 +77,14 @@
 
 ## 2017年
 - 12月(https://hacg.me/wp/56375.html / 1b0fc1dc1a944b44496fbd80e0ef1b4a97ead322) - 做种中
-- 11月(https://hacg.me/wp/55760.html / 9fb7afb2166e514bdae9a42a3a92a657498be332) - 下载中(99.6%)
+- 11月(https://hacg.me/wp/55760.html / 9fb7afb2166e514bdae9a42a3a92a657498be332) - 做种中
 - 10月(https://hacg.me/wp/55123.html / 4b3ca9d42cd88225d39a80853c73080e04e58adb) - 下载中(90.7%)
-- 09月(https://hacg.me/wp/53724.html / 73f54babca5936672102df1214ca2d5908da5147) - 下载中(92.3%)
-- 08月(https://hacg.me/wp/52747.html / 57a19536ec11eebf59ea0b2c993dbc9afb491870) - 下载中(93.5%)
-- 07月(https://hacg.me/wp/51420.html / c30b43a9bad99326099c8470312972df97ecf35b) - 下载中(88.5%)
+- 09月(https://hacg.me/wp/53724.html / 73f54babca5936672102df1214ca2d5908da5147) - 做种中
+- 08月(https://hacg.me/wp/52747.html / 57a19536ec11eebf59ea0b2c993dbc9afb491870) - 做种中
+- 07月(https://hacg.me/wp/51420.html / c30b43a9bad99326099c8470312972df97ecf35b) - 做种中
 - 06月(https://hacg.me/wp/50036.html / 1846934c061930425ab90c7232ca1e0e40b3be49) - 做种中
 - 05月(https://hacg.me/wp/48232.html / 75f3a7d7a21d66eb231c0a493470b0b054e895f1) - 做种中
-- 04月(https://hacg.me/wp/46537.html / 5391e444463d64f67bc670d8bbb79f6666556a79) - 下载中(83.3%)(反向下载么，之前还 83.8% 呐！)
+- 04月(https://hacg.me/wp/46537.html / 5391e444463d64f67bc670d8bbb79f6666556a79) - 做种中
 - 03月(https://hacg.me/wp/44086.html / 412415e4f5d914db0f2da63e831b58c017ed3209) - 做种中
 - 02月(https://hacg.me/wp/42493.html / ac9a95dffedda64e6cd0395cc14b8b2891f3b468) - 做种中
 - 01月(https://hacg.me/wp/35896.html / EDF505476F6061924710EE9ABA62AA1533D21CA7) - 做种中
@@ -106,7 +107,7 @@
 ## 2015年
 - 12月(https://hacg.me/wp/17512.html / 91e68a4cfd2d0d0aeb68cef9e31a48cc13f74cbf) - 下载元数据中
 - 11月(https://hacg.me/wp/942.html / e3b42c43e2017bd8dc4fc5373f09123387229168) - 下载中(75.7%)
-- 10月(https://hacg.me/wp/62869.html / fbdfe86eb6eac9413039644fb8eff4e8cf02abff) - 下载元数据中
+- 10月(https://hacg.me/wp/62869.html / fbdfe86eb6eac9413039644fb8eff4e8cf02abff) - 做种中
 - 09月(https://hacg.me/wp/62324.html / 0de986711e838908ee582abe6f4c34bd41e091e6) - 下载中(0%)
 - 08月(https://hacg.me/wp/60683.html / 51ada5288090b21cafe2b0fb54605f6df4874345) - 做种中
 - 07月(https://hacg.me/wordpress/59977 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
