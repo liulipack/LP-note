@@ -1,15 +1,16 @@
 # 更新日志
 ```json
 {
-    "1615874801": "占位",
-    "1615874801": "更新“经度”部分内容。",
-    "1615624525": "更新下载经度。",
+    "1615877032": "占位",
+    "1615877032": "更新“进度”部分内容。把多处“经度”修正为“进度”。",
+    "1615874801": "更新“进度”部分内容。",
+    "1615624525": "更新下载进度。",
     "1615610573": "更新“进度”部分2017年5月的状况。",
     "1615553944": "各种修改，记不清了。",
     "1615538916": "添加“事件记录”部分。",
     "1615526124": "再次修正此处的语法错误。",
     "1615525709": "修正此处的语法错误。",
-    "1615525360": "更新“经度”部分内容。",
+    "1615525360": "更新“进度”部分内容。",
     "1615524325": "首次提交相关内容。"
 }
 ```
@@ -105,22 +106,23 @@
 	- 01月(https://hacg.me/wp/17997.html / 8e174a74b5c4bae4f7169764ba3c516b4850b049) - 未下载
 
 ## 2015年
-- 12月(https://hacg.me/wp/17512.html / 91e68a4cfd2d0d0aeb68cef9e31a48cc13f74cbf) - 下载元数据中
-- 11月(https://hacg.me/wp/942.html / e3b42c43e2017bd8dc4fc5373f09123387229168) - 下载中(75.7%)
-- 10月(https://hacg.me/wp/62869.html / fbdfe86eb6eac9413039644fb8eff4e8cf02abff) - 做种中
-- 09月(https://hacg.me/wp/62324.html / 0de986711e838908ee582abe6f4c34bd41e091e6) - 下载中(0%)
-- 08月(https://hacg.me/wp/60683.html / 51ada5288090b21cafe2b0fb54605f6df4874345) - 做种中
-- 07月(https://hacg.me/wordpress/59977 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
-- 06月(https://hacg.me/wordpress/59102 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
-- 05月(https://hacg.me/wp/58332.html / 4652d5126bd20c710526137b5a1802ba7f95461c) - 做种中
-- 04月(https://hacg.me/wordpress/57583 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
-- 03月(https://hacg.me/wordpress/56953 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
-- 02月(https://hacg.me/wordpress/56216 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
-- 01月(https://hacg.me/wordpress/54537 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 已下载(通过初之图库可下载。原页面丢失。)
+- 2015年总集篇(https://www.hacg.me/wp/17538.html / 9FE23BE78F054024F05B59522B75AA6423720E5A) - 下载中(0%)
+    - 12月(https://hacg.me/wp/17512.html / 91e68a4cfd2d0d0aeb68cef9e31a48cc13f74cbf) - 未下载
+    - 11月(https://hacg.me/wp/942.html / e3b42c43e2017bd8dc4fc5373f09123387229168) - 下载中(75.7%，总集篇下完就删。)
+    - 10月(https://hacg.me/wp/62869.html / fbdfe86eb6eac9413039644fb8eff4e8cf02abff) - 做种中(总集篇下完就删。)
+    - 09月(https://hacg.me/wp/62324.html / 0de986711e838908ee582abe6f4c34bd41e091e6) - 未下载
+    - 08月(https://hacg.me/wp/60683.html / 51ada5288090b21cafe2b0fb54605f6df4874345) - 做种中(总集篇下完就删。)
+    - 07月(https://hacg.me/wordpress/59977 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
+    - 06月(https://hacg.me/wordpress/59102 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
+    - 05月(https://hacg.me/wp/58332.html / 4652d5126bd20c710526137b5a1802ba7f95461c) - 做种中(总集篇下完就删。)
+    - 04月(https://hacg.me/wordpress/57583 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
+    - 03月(https://hacg.me/wordpress/56953 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
+    - 02月(https://hacg.me/wordpress/56216 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
+    - 01月(https://hacg.me/wordpress/54537 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
 
 ## 2014年
 - 2014年10月-2012年07月(https://hacg.me/wp/51711.html, 649E1869BEA72FCA422091267FC6AA399B49B602) - 做种中
-- 12-01月(https://hacg.me/wordpress/53603, 4667BB5855030CAAFDA3E70A11CD7BF6290D4CC4) - 未下载
+- 2014年总集篇(https://www.hacg.me/wp/53603.html, 4667BB5855030CAAFDA3E70A11CD7BF6290D4CC4) - 未下载
     - 12月(https://www.hacg.me/wordpress/53537, 1e27f8c9bd02cb63c822c1d97cbc33f2345c599d) - 下载元数据中
     - 11月(https://hacg.me/wp/52600.html, 1f8c03c02c22e351366cec2b333d8091e3a90ccf) - 下载中(0%)
     - 10月(https://hacg.me/wordpress/51824) - 未下载(分享失效。)
@@ -129,7 +131,7 @@
     - 07月(https://hacg.me/wordpress/49846) - 访问异常(无限刷新。)
     - 06月(https://hacg.me/wordpress/49158) - 未下载(分享失效。)
     - 05月(https://hacg.me/wordpress/48626) - 未下载(分享失效。)
-    - 04月(https://hacg.me/wordpress/47868 / http://cdn.dropmark.com/65087/72bd668e2f8412805e8fd60da33da7c5ccd1c81a/琉璃神社壁纸包 2014年04月号.zip) - 可下载(内容重复，不保留。)
+    - 04月(https://hacg.me/wordpress/47868 / http://cdn.dropmark.com/65087/72bd668e2f8412805e8fd60da33da7c5ccd1c81a/琉璃神社壁纸包%202014年04月号.zip) - 可下载(内容重复，不保留。)
     - 03月(https://hacg.me/wordpress/47285) - 访问异常(无限刷新。)
     - 02月(https://hacg.me/wordpress/46452) - 未下载(分享失效。)
     - 01月(https://hacg.me/wordpress/44900) - 未下载(分享失效。)
@@ -140,7 +142,7 @@
 - 10月(https://hacg.me/wordpress/41120) - 未下载(分享失效。)
 - 09月(https://hacg.me/wordpress/40165) - 未下载(分享失效。)
 - 08月(https://hacg.me/wordpress/39341) - 未下载(分享失效。)
-- 07月(https://hacg.me/wordpress/38277 / http://storage.live.com/items/EE9FAB11D4CCC41!268?a.7z(hacg.me)) - 可下载(内容重复，不保留。)
+- 07月(https://hacg.me/wordpress/38277 / http://storage.live.com/items/EE9FAB11D4CCC41!268?a.7z (hacg.me)) - 可下载(内容重复，不保留。)
 - 06月(https://hacg.me/wordpress/36892) - 未下载(分享失效。)
 - 05月(https://hacg.me/wordpress/35537) - 未下载(分享失效。)
 - 04月(https://hacg.me/wordpress/34005) - 未下载(分享失效。)
@@ -149,12 +151,12 @@
 - 01月(https://hacg.me/wordpress/28706) - 未下载(分享失效。)
 
 ## 2012年
-- 12月(https://hacg.me/wordpress/26092 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 未下载(通过初之图库可下载。内容重复，不保留。)
-- 11月(https://hacg.me/wordpress/24877 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 未下载(通过初之图库可下载。内容重复，不保留。)
-- 10月(https://hacg.me/wordpress/23625 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 未下载(通过初之图库可下载。内容重复，不保留。)
-- 09月(https://hacg.me/wordpress/22663 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 未下载(通过初之图库可下载。内容重复，不保留。)
-- 08月(https://hacg.me/wordpress/20605 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 未下载(通过初之图库可下载。内容重复，不保留。)
-- 07月(https://hacg.me/wordpress/17212 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 未下载(通过初之图库可下载。内容重复，不保留。)
+- 12月(https://hacg.me/wordpress/26092 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 不保留(通过初之图库可下载。内容重复，不保留。)
+- 11月(https://hacg.me/wordpress/24877 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 不保留(通过初之图库可下载。内容重复，不保留。)
+- 10月(https://hacg.me/wordpress/23625 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 不保留(通过初之图库可下载。内容重复，不保留。)
+- 09月(https://hacg.me/wordpress/22663 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 不保留(通过初之图库可下载。内容重复，不保留。)
+- 08月(https://hacg.me/wordpress/20605 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 不保留(通过初之图库可下载。内容重复，不保留。)
+- 07月(https://hacg.me/wordpress/17212 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 不保留(通过初之图库可下载。内容重复，不保留。)
 - 06月(https://hacg.me/wordpress/49158 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 已下载
 - 05月(https://hacg.me/wordpress/14931 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 已下载
 - 04月(https://hacg.me/wordpress/12812 / https://cloud.zui.moe/s/8BHB?path=%2F2012) - 已下载
