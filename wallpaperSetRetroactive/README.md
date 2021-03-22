@@ -1,7 +1,8 @@
 # 更新日志
 ```json
 {
-    "1616178165": "占位",
+    "1616381853": "占位",
+    "1616381853": "更新“进度”部分内容。添加“大感谢”部分。",
     "1616178165": "更新“进度”部分内容。",
     "1615877032": "更新“进度”部分内容。把多处“经度”修正为“进度”。",
     "1615874801": "更新“进度”部分内容。",
@@ -107,15 +108,15 @@
 	- 01月(https://hacg.me/wp/17997.html / 8e174a74b5c4bae4f7169764ba3c516b4850b049) - 未下载
 
 ## 2015年
-- 2015年总集篇(https://www.hacg.me/wp/17538.html / 9FE23BE78F054024F05B59522B75AA6423720E5A) - 下载中(0%)
-    - 12月(https://hacg.me/wp/17512.html / 91e68a4cfd2d0d0aeb68cef9e31a48cc13f74cbf) - 未下载
-    - 11月(https://hacg.me/wp/942.html / e3b42c43e2017bd8dc4fc5373f09123387229168) - 下载中(75.7%，总集篇下完就删。)
-    - 10月(https://hacg.me/wp/62869.html / fbdfe86eb6eac9413039644fb8eff4e8cf02abff) - 做种中(总集篇下完就删。)
-    - 09月(https://hacg.me/wp/62324.html / 0de986711e838908ee582abe6f4c34bd41e091e6) - 未下载
-    - 08月(https://hacg.me/wp/60683.html / 51ada5288090b21cafe2b0fb54605f6df4874345) - 做种中(总集篇下完就删。)
+- 2015年总集篇(https://www.hacg.me/wp/17538.html / 9FE23BE78F054024F05B59522B75AA6423720E5A) - 做种中
+    - 12月(https://hacg.me/wp/17512.html / 91e68a4cfd2d0d0aeb68cef9e31a48cc13f74cbf) - 不保留
+    - 11月(https://hacg.me/wp/942.html / e3b42c43e2017bd8dc4fc5373f09123387229168) - 不保留
+    - 10月(https://hacg.me/wp/62869.html / fbdfe86eb6eac9413039644fb8eff4e8cf02abff) - 不保留
+    - 09月(https://hacg.me/wp/62324.html / 0de986711e838908ee582abe6f4c34bd41e091e6) - 不保留
+    - 08月(https://hacg.me/wp/60683.html / 51ada5288090b21cafe2b0fb54605f6df4874345) - 不保留
     - 07月(https://hacg.me/wordpress/59977 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
     - 06月(https://hacg.me/wordpress/59102 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
-    - 05月(https://hacg.me/wp/58332.html / 4652d5126bd20c710526137b5a1802ba7f95461c) - 做种中(总集篇下完就删。)
+    - 05月(https://hacg.me/wp/58332.html / 4652d5126bd20c710526137b5a1802ba7f95461c) - 不保留
     - 04月(https://hacg.me/wordpress/57583 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
     - 03月(https://hacg.me/wordpress/56953 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
     - 02月(https://hacg.me/wordpress/56216 / https://cloud.zui.moe/s/8BHB?path=%2F2015) - 不保留(通过初之图库可下载。原页面丢失。)
@@ -125,7 +126,7 @@
 - 2014年10月-2012年07月(https://hacg.me/wp/51711.html, 649E1869BEA72FCA422091267FC6AA399B49B602) - 做种中
 - 2014年总集篇(https://www.hacg.me/wp/53603.html, 4667BB5855030CAAFDA3E70A11CD7BF6290D4CC4) - 未下载
     - 12月(https://www.hacg.me/wordpress/53537, 1e27f8c9bd02cb63c822c1d97cbc33f2345c599d) - 下载元数据中
-    - 11月(https://hacg.me/wp/52600.html, 1f8c03c02c22e351366cec2b333d8091e3a90ccf) - 下载中(0%)
+    - 11月(https://hacg.me/wp/52600.html, 1f8c03c02c22e351366cec2b333d8091e3a90ccf) - 做种中
     - 10月(https://hacg.me/wordpress/51824) - 未下载(分享失效。)
     - 09月(https://hacg.me/wordpress/51202) - 未下载(分享失效。)
     - 08月(https://hacg.me/wordpress/50693) - 未下载(分享失效。)
@@ -174,6 +175,7 @@
 2021-02-25
 ---
 困惑、懒。
+
 > 本来想全下载完之后给神社投个搞的，然而在找资源的时候才发现初之图库(https://img.himiku.com )有提供 OneDrive 下载。之前访问下载页的时候看到 `度盘` 就给关了，今天摸鱼时往下拖了点，我直接"心肺骤停"... 我瞬间失去了做这个合集的意义... 我是不是不应该发这个合集呐！ (っ °Д °;)っ
 
 2021-02-23
@@ -182,6 +184,11 @@
 
 > 这个站点是为了激励我早日完成琉璃神社壁纸包的溯源工作而搭建的，本来它早就该搭建好了，但我买的廉价共享型虚拟主机被 DDoS 攻击所以拖了至少6个小时。
 > 另外如果你不想等太长时间的话，建议访问初之图库(https://img.himiku.com )进行查阅。
+
+# 大感谢
+- [鹰小队翻译组](https://taka-sub.github.io)初代 - 代下载`2015年总集篇`、`2014年12月`(下载元数据中)和`2014年11月`部分资源。
+- [鹰小队翻译组](https://taka-sub.github.io)某漫画嵌字 - 代下载部分资源。(之前就是这么记的，不确定到底代下载哪些)
+- [一瞬的焰火](https://www.liuli.cat/wp/bbs/profile/137712)，提供[灵感](https://hacg.me/wp/bbs/postid/22048)和[鼓励](https://hacg.me/wp/bbs/postid/23585)。
 
 # 附件
 
