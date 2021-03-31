@@ -1,7 +1,8 @@
 # 更新日志
 ```json
 {
-    "1616982147": "占位",
+    "1617196973": "占位",
+    "1617196973": "更新“进度”部分内容。",
     "1616982147": "更新“做种机”部分内容。",
     "1616455598": "更新“进度”部分内容。",
     "1616454863": "更新“进度”部分内容。",
@@ -130,7 +131,7 @@
 ## 2014年
 - 2014年10月-2012年07月(https://hacg.me/wp/51711.html, [649E1869BEA72FCA422091267FC6AA399B49B602](https://liulipack-unblock.oss-cn-hangzhou.aliyuncs.com/other/torrent/liuli-Wallpaper-Set/[201207-201410]649E1869BEA72FCA422091267FC6AA399B49B602.torrent)) - 做种中
 - 2014年总集篇(https://www.hacg.me/wp/53603.html, 4667BB5855030CAAFDA3E70A11CD7BF6290D4CC4) - 未下载
-    - 12月(https://www.hacg.me/wordpress/53537, 1e27f8c9bd02cb63c822c1d97cbc33f2345c599d) - 下载元数据中
+    - 12月(https://www.hacg.me/wordpress/53537, [1e27f8c9bd02cb63c822c1d97cbc33f2345c599](https://liulipack-unblock.oss-cn-hangzhou.aliyuncs.com/other/torrent/liuli-Wallpaper-Set/[201412]1e27f8c9bd02cb63c822c1d97cbc33f2345c599d.torrent)) - 做种中
     - 11月(https://hacg.me/wp/52600.html, [1f8c03c02c22e351366cec2b333d8091e3a90ccf](https://liulipack-unblock.oss-cn-hangzhou.aliyuncs.com/other/torrent/liuli-Wallpaper-Set/[201411]1f8c03c02c22e351366cec2b333d8091e3a90ccf.torrent)) - 做种中
     - 10月(https://hacg.me/wordpress/51824) - 未下载(分享失效。)
     - 09月(https://hacg.me/wordpress/51202) - 未下载(分享失效。)
