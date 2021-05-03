@@ -31,6 +31,11 @@
 
 # 未发布
 
+## 伍六七之玄武国篇 原声大碟
+
+https://y.qq.com/n/yqq/album/003ooH9p0GjhsS.html
+http://www.kuwo.cn/album_detail/17916194
+
 ## 《境界的彼方》 - 相关资源好像被我删了，硬盘里找不到了...
 
 片源 [[Snow-Raws]境界的彼方/Beyond the Boundary/境界の彼方(BD 1920x1080 HEVC-YUV420P10 FLAC)](https://nyaa.si/view/1159630)
